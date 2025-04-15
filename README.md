@@ -1,5 +1,5 @@
 
-# 📊 Crypto Transactions Analysis [Tableau](https://public.tableau.com/app/profile/douglas.chia/viz/CryptoTxsAnalysis/Dashboard1)
+# 📊 Crypto Transactions Analysis - [Tableau Dashboard](https://public.tableau.com/app/profile/douglas.chia/viz/CryptoTxsAnalysis/Dashboard1)
 
 ## ✅ 1. Data Cleaning & Preparation
 - Verified **no missing or null values** across all columns.
